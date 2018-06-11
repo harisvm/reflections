@@ -1,0 +1,12 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+------------------------------------------------------------------------------------------
+I could see what change has done to the code.
+------------------------------------------------------------------------------------------
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+------------------------------------------------------------------------------------------
+We will be working on multiple files at the same time.
+------------------------------------------------------------------------------------------
+How might using version control make you more confident to make changes that could break something?
+------------------------------------------------------------------------------------------
+We are storing each version of the change.
